@@ -13,8 +13,6 @@ Ejecuta el script proporcionando la dirección IP que deseas escanear como argum
 
 # Responsabilidad y Uso Ético
 
-Por supuesto, aquí tienes una sección de "Responsabilidad y Uso Ético" que puedes agregar a tu README.md:
-
 Responsabilidad y Uso Ético
 El autor de este software no asume ninguna responsabilidad por el uso indebido del software o 
 cualquier daño que pueda resultar del uso de este software. El usuario es el único responsable de su uso y debe utilizarlo de manera ética y legal.
