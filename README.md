@@ -6,7 +6,7 @@ la disponibilidad de servicios en un servidor remoto
 # uso 
 Clona el repositorio a tu máquina local utilizando el comando git clone.
 Ejecuta el script proporcionando la dirección IP que deseas escanear como argumento. Por ejemplo:
-  ./portscan.sh <ip_address>
+    ./portscan.sh <ip_address>
   
 
 # Responsabilidad y Uso Ético
