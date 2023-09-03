@@ -8,7 +8,7 @@ Clona el repositorio a tu máquina local utilizando el comando git clone.
 Ejecuta el script proporcionando la dirección IP que deseas escanear como argumento. Por ejemplo:
   ./portscan.sh <ip_address>
   
-Renuncia de Responsabilidad por Mal Uso
+
 
 El autor de este software no asume ninguna responsabilidad por el uso
 indebido del software o cualquier daño que pueda resultar del uso de este software. 
