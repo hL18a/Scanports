@@ -1,4 +1,6 @@
 # scanports
+Scanports ha sido desarrollado y probado en sistemas Linux, y se espera que funcione en otros sistemas Unix compatibles. 
+
 Este repositorio contiene un script en Bash que permite realizar un escaneo 
 de puertos en una dirección IP específica. El script es útil para verificar 
 la disponibilidad de servicios en un servidor remoto
