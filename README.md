@@ -9,10 +9,13 @@ Ejecuta el script proporcionando la dirección IP que deseas escanear como argum
   ./portscan.sh <ip_address>
   
 
+# Responsabilidad y Uso Ético
 
-El autor de este software no asume ninguna responsabilidad por el uso
-indebido del software o cualquier daño que pueda resultar del uso de este software. 
-El usuario es el único responsable de su uso y debe utilizarlo de manera ética y legal.
+Por supuesto, aquí tienes una sección de "Responsabilidad y Uso Ético" que puedes agregar a tu README.md:
 
-El autor de este software no será responsable de ninguna pérdida, daño o consecuencia que resulte del uso de este software.
-Por favor, utilice este software con responsabilidad y de acuerdo con las leyes y regulaciones aplicables en su jurisdicción.
+Responsabilidad y Uso Ético
+El autor de este software no asume ninguna responsabilidad por el uso indebido del software o 
+cualquier daño que pueda resultar del uso de este software. El usuario es el único responsable de su uso y debe utilizarlo de manera ética y legal.
+
+El autor de este software no será responsable de ninguna pérdida, daño o consecuencia que resulte del 
+uso de este software. Por favor, utilice este software con responsabilidad y de acuerdo con las leyes y regulaciones aplicables en su jurisdicción.
