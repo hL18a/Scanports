@@ -6,9 +6,6 @@ de puertos en una dirección IP específica. El script es útil para verificar
 la disponibilidad de servicios en un servidor remoto
 
 # uso 
-Clona el repositorio a tu máquina local utilizando el comando git clone.
-Ejecuta el script proporcionando la dirección IP que deseas escanear como argumento. Por ejemplo:
-
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/hL18a/scanports.git
