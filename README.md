@@ -10,7 +10,7 @@ la disponibilidad de servicios en un servidor remoto
    ```bash
    git clone https://github.com/hL18a/scanports.git
    cd scanports
-   chmod +x Portcck.sh
+   chmod +x scanports.sh
    ./scanports.sh
 
 # Responsabilidad y Uso Ético
